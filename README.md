@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo! Me chamo Luan, sou estudante de Ciências da Computação.</h1>
+<h1 align="center">Bem vindo! Me chamo Luan, estou cursando Sistemas para Internet.</h1>
 
 
 <h3 align="center">Atualmente estou estudando Java, desenvolvimento mobile com Kotlin e suas nuances.</h3>
