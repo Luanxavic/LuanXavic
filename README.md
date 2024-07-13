@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindo! Me chamo Luan. Sou desenvolvedor de software mobile.</h1>
 
 
-<h3 align="center">Atualmente estou estudando Java, desenvolvimento mobile com Kotlin e suas nuances.</h3>
+<h3 align="center">Minha especialidade é Java com Spring Framework e Kotlin para desenvolvimento de aplicações android nativa.</h3>
 
   
 
